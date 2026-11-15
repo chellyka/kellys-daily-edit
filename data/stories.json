@@ -1,0 +1,62 @@
+{
+ "stocks_caption": "Trending stocks, Friday 13 Nov US close. Prices shown where sources gave them; AMD and TSLA show the day's move only.",
+ "stocks": [
+  {"ticker": "NVDA", "price": "$162.85", "move": "−2.01%"},
+  {"ticker": "AMD", "price": "", "move": "−8%+"},
+  {"ticker": "AAPL", "price": "$356.27", "move": "+0.39%"},
+  {"ticker": "TSLA", "price": "", "move": "−1.82%"},
+  {"ticker": "META", "price": "$641.69", "move": "+2.90%"}
+ ],
+ "footer_extra": "Celebrity coverage was thin today: the feeds had little fresh celebrity news, so section 03 has two stories.",
+ "sections": {
+  "01": {"title": "Anthropic's listing looms over a wobbly AI trade.", "stories": [
+   {"headline": "Anthropic's IPO is set to be the biggest listing ever",
+    "body": "An amended S-1 offers 825M shares at $70–78, up to about $64.4B, plus $26B from seven strategic buyers off-market, for up to $90.4B against SpaceX's $85.7B in June. Pricing is reportedly due Wed 18 Nov and trading Thu 19 Nov as ANT on Nasdaq, with the FT saying a price above the range is being considered. About 20% of shares are reserved for retail investors, and banks reportedly turned away orders from China and Hong Kong.",
+    "trend": "AI mega-listings are now the market's main source of fresh equity.",
+    "disclosure": "Anthropic makes Claude.", "photo": "nyse",
+    "sources": [{"label": "Il Messaggero (citing FT)", "url": "https://app.bigdata.com/documents/4EBCDE09BDF78B9F6F5F385A4BDC5A0A"}, {"label": "Nikkei", "url": "https://app.bigdata.com/documents/D497C616FE324FA1D42EB9395849FED8"}]},
+   {"headline": "ETF experts: Nvidia's turmoil may leave Big Tech the winner",
+    "body": "Experts on CNBC's \"ETF Edge\" say Nvidia's leadership shock and Democratic gains in Congress could favour the largest AI-linked tech stocks and rival chipmakers. Dan Ives estimates 10–20% of planned data centres may not get built, but says demand still outruns supply four to one. Nvidia ended the week at $162.85 and reports third-quarter results on Tue 17 Nov (US) under interim CEO Colette Kress.",
+    "trend": "Investors are treating the shock as a reshuffle of AI winners, not the end of the trade.", "photo": "nvidia_hq",
+    "sources": [{"label": "CNBC", "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"}]},
+   {"headline": "Asia splits on Nvidia's exit; NZX eases from a record",
+    "body": "On Friday Japan's Nikkei 225 closed up 0.53% at 61,142.35, while Hong Kong's Hang Seng fell 1.6% to 23,637.60 on fears of tighter US chip export controls. Kontan reported the NZX 50 down about 0.3% to 14,210.10 in early Friday trading after Thursday's record, still heading for a weekly gain of around 1.4%.",
+    "trend": "Asian markets disagree on how far Nvidia's leadership exit changes chip policy.",
+    "sources": [{"label": "MT Newswires (Hong Kong)", "url": "https://app.bigdata.com/documents/D63A00D68AE396A3A52E3A61A16A3CD2"}, {"label": "MT Newswires (Japan)", "url": "https://app.bigdata.com/documents/508D94EB82491ADA351A2714B60B8EB4"}, {"label": "Kontan", "url": "https://app.bigdata.com/documents/52F52CD21474D11B9058831510EAF9EE"}]}
+  ]},
+  "02": {"title": "A three-way summit, a grounded week and a count still running.", "stories": [
+   {"headline": "Trump, Putin and Xi plan a joint meeting in China",
+    "body": "The White House says the three leaders will hold a historic joint meeting at the APEC summit in Shenzhen next week, with Trump due to arrive late on Wednesday for the two-day summit. A spokeswoman said he will discuss the \"reduction of nuclear weapons\". Earlier reports from Al Jazeera and SCMP had treated the trilateral as unconfirmed and Beijing as lukewarm.",
+    "trend": "Symbolism may outweigh substance, as analysts expect few breakthroughs.", "photo": "shenzhen", "note": "Partial article text.",
+    "sources": [{"label": "BBC", "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"}, {"label": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt"}]},
+   {"headline": "A router upgrade grounded every US flight",
+    "body": "US officials say a routine upgrade by contractor L3Harris overloaded communications routers and forced the FAA's nationwide ground stop on Friday 13 Nov. Al Jazeera reports the stop ran about four hours, with more than 9,000 flights scrapped on Friday and over 5,000 cancelled on Saturday. Transportation Secretary Sean Duffy has called for $50bn to upgrade air-traffic systems.",
+    "trend": "Ageing infrastructure makes even routine upgrades a national risk.",
+    "sources": [{"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know"}]},
+   {"headline": "NZQA offers paper back-ups after exam outage",
+    "body": "Students sitting NCEA exams on Monday, Tuesday and Wednesday will be able to use paper back-ups after an online outage last week cost some Level 2 English students their work. NZQA says it will cover schools' printing costs, and about 41,000 Level 1 English entries get paper access.",
+    "trend": "Trust in digital assessment is now the issue.", "photo": "beehive",
+    "sources": [{"label": "NZ Herald", "url": "https://www.nzherald.co.nz/nz/nzqa-apologises-for-exam-disruptions-offers-paper-back-ups/PKD4FX2LQZDYDNL4RG4AS5NDNI/"}]}
+  ]},
+  "03": {"title": "What's trending right now.", "stories": [
+   {"headline": "Bowen Yang returns to SNL as Jensen Huang",
+    "body": "Yang made a surprise return to Saturday Night Live on 14 Nov (US), playing Nvidia's departed CEO in the cold open of an episode hosted by John Mulaney, with Phoebe Bridgers as musical guest. The Hollywood Reporter says Amanda Seyfried will host on 5 Dec with Don Toliver as musical guest.",
+    "trend": "The Nvidia saga has moved from the markets pages into late-night comedy.", "note": "Partial article text.",
+    "sources": [{"label": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542/"}]},
+   {"headline": "Fashion's new luxury: a secret message inside the lining",
+    "body": "Vogue says designers and clients are finding personal ways to mark garments, from hidden notes and embroidery to names stitched inside. Examples include a Chanel jacket with an E.T. embroidery for Steven Spielberg and a custom Chanel gown concealing a handwritten note for Hailey Bieber.",
+    "trend": "Personalisation is moving from the outside of clothes to the inside.", "note": "Partial article text; single source.",
+    "sources": [{"label": "Vogue", "url": "https://www.vogue.com/article/how-fashions-labels-got-personal-again"}]}
+  ]},
+  "04": {"title": "Where to eat, what's new, what's on.", "stories": [
+   {"headline": "Yola brings a Lebanese bistro to Ponsonby Central",
+    "body": "The Spinoff reviewed Yola on 1 Oct; it officially opened on 29 Sept after soft-launch seatings and is open Tue–Sun, 12pm–10pm. That makes it about six weeks old, and I found no confirmed new opening for this week.",
+    "trend": "Ponsonby's newest openings lean on regional Middle Eastern cooking.", "note": "Single source.",
+    "sources": [{"label": "The Spinoff", "url": "https://thespinoff.co.nz/kai/01-10-2026/new-and-approved-yola-auckland"}]},
+   {"headline": "This week: Flight of the Conchords and Auckland Feast",
+    "body": "Urban List lists Flight of the Conchords at the Civic on Wed 18 and Thu 19 Nov at 8pm, and Auckland Feast running to 22 Nov. Confirm tickets and bookings with the venues.",
+    "trend": "Big-name gigs and festival dinners fill the week.", "photo": "akl_skyline", "note": "Carried from Saturday's check; not re-fetched.",
+    "sources": [{"label": "Urban List: Conchords", "url": "https://www.theurbanlist.com/auckland/a-list/flight-of-the-conchords-new-zealand"}, {"label": "Urban List: Feast", "url": "https://www.theurbanlist.com/auckland/a-list/auckland-feast-food-festival"}]}
+  ]}
+ }
+}
