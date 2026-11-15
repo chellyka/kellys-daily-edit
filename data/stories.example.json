@@ -1,0 +1,61 @@
+{
+ "stocks_caption": "Trending stocks, Friday 13 Nov US close. Prices shown where sources gave them; AMD and TSLA show the day's move only.",
+ "stocks": [
+  {"ticker": "NVDA", "price": "$162.85", "move": "\u22122.01%"},
+  {"ticker": "AMD", "price": "", "move": "\u22128%+"},
+  {"ticker": "AAPL", "price": "$356.27", "move": "+0.39%"},
+  {"ticker": "TSLA", "price": "", "move": "\u22121.82%"},
+  {"ticker": "META", "price": "$641.69", "move": "+2.90%"}
+ ],
+ "sections": {
+  "01": {"title": "Anthropic's listing looms over a wobbly AI trade.", "stories": [
+   {"headline": "Anthropic's IPO is set to be the biggest listing ever",
+    "body": "An amended S-1 offers 825M shares at $70\u201378, about $64.4B at the top, plus a $26B placement with seven strategic investors, for roughly $90.4B against SpaceX's $85.7B in July. Pricing is expected Wed 18 Nov and trading Thu 19 Nov as ANT on Nasdaq, though Anthropic has not publicly confirmed the date. The FT reportedly says a price above the range is being considered.",
+    "trend": "AI mega-listings are now the market's main source of fresh equity.",
+    "disclosure": "Anthropic makes Claude.", "photo": "nyse",
+    "sources": [{"label": "Il Messaggero (citing FT)", "url": "https://app.bigdata.com/documents/4EBCDE09BDF78B9F6F5F385A4BDC5A0A"}, {"label": "Nikkei", "url": "https://app.bigdata.com/documents/D497C616FE324FA1D42EB9395849FED8"}, {"label": "CNBC Pro", "url": "https://app.bigdata.com/documents/73371B69E90BE7B7E90E10A4B41BB34E"}]},
+   {"headline": "Nvidia reports on Tuesday after a sixth weekly drop",
+    "body": "Nvidia fell 2.01% to $162.85 on Friday and about 13% on the week, its longest losing run since 2012, after CEO Jensen Huang resigned and CFO Colette Kress became interim CEO. Its first results since the exit are due Tue 17 Nov (US), and Huang may face questions from Congress that week.",
+    "trend": "AI money is rotating between chip names, not leaving.", "photo": "nvidia_hq",
+    "sources": [{"label": "CNBC", "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"}, {"label": "Wallstreetcn", "url": "https://app.bigdata.com/documents/C50037656EB19708E8053313AFB7ADA3"}]},
+   {"headline": "Yields above 5% and Fed minutes due",
+    "body": "The US 10-year yield was about 5.15% on Friday's close, and October producer prices rose 6.5% on the year, the fastest since November 2022. Fed minutes are due Thu 19 Nov (US), with some commentators expecting another hike in December.",
+    "trend": "Inflation, not growth, is steering the market.",
+    "sources": [{"label": "Yicai", "url": "https://app.bigdata.com/documents/03B9E57B78C76D4631AC9C640FA09C9D"}, {"label": "Alliance News", "url": "https://app.bigdata.com/documents/BF5BD423CAAF0648DEDF7CC916F32534"}]}
+  ]},
+  "02": {"title": "A three-way summit, and a count still running.", "stories": [
+   {"headline": "Trump, Xi and Putin to meet in Shenzhen",
+    "body": "The White House said Friday that the three leaders will meet on the sidelines of APEC (18\u201319 Nov), with nuclear arms reductions on the agenda. A senior US official said, \"We do not expect to get to any kind of agreement.\" Earlier reports treated the trilateral as unconfirmed, so watch for changes.",
+    "trend": "Symbolism over substance: analysts expect few breakthroughs.", "photo": "shenzhen",
+    "sources": [{"label": "BBC", "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"}, {"label": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt"}]},
+   {"headline": "NZQA offers paper back-ups after exam outage",
+    "body": "Students sitting NCEA exams Monday to Wednesday can use paper back-ups after an online outage cost some Level 2 English students their work. NZQA says all roughly 41,000 Level 1 English entries get paper access and it will cover schools' printing costs.",
+    "trend": "Trust in digital assessment is now the issue.", "note": "Reported from the visible part of a paywalled article.",
+    "sources": [{"label": "NZ Herald", "url": "https://www.nzherald.co.nz/nz/nzqa-apologises-for-exam-disruptions-offers-paper-back-ups/PKD4FX2LQZDYDNL4RG4AS5NDNI/"}]},
+   {"headline": "NZ election: final count due 27 Nov",
+    "body": "A press release quoting the Electoral Commission puts National, ACT and NZ First at a combined 67 of 131 seats. About 399,000 special votes are still to be counted, with official results due Fri 27 Nov.",
+    "trend": "A thin majority plus a new kingmaker means coalition talks could drag.", "photo": "beehive",
+    "sources": [{"label": "Benzinga (press release)", "url": "https://app.bigdata.com/documents/BC1BA571B8376293D7BB72E27233692D"}, {"label": "interest.co.nz", "url": "https://www.interest.co.nz/public-policy/141068/three-weeks-waiting-how-specials-seat-race-and-overhang-could-reshape-next"}]}
+  ]},
+  "03": {"title": "What's trending right now.", "stories": [
+   {"headline": "Bowen Yang returns to SNL as Jensen Huang",
+    "body": "Yang made a surprise cameo in Saturday's SNL cold open, playing Nvidia's departed CEO in a sketch where host John Mulaney lectured tech billionaires about national security. It was his first appearance since leaving the cast last December, and Amanda Seyfried was announced as the 5 Dec host.",
+    "trend": "The Nvidia saga has moved from the markets pages into late-night comedy.",
+    "sources": [{"label": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542/"}]},
+   {"headline": "Taylor Swift set to perform at the CMA Awards",
+    "body": "Just Jared reports Swift will perform at the 60th CMA Awards on Wed 18 Nov (US time) in Nashville, her first CMAs appearance in 10 years. What she will perform is not stated, and a report of a Dolly Parton tribute is unconfirmed.",
+    "trend": "A surprise awards-show return is the week's biggest pop-culture draw.", "note": "Single source.",
+    "sources": [{"label": "Just Jared", "url": "https://justjared.com/2026/11/13/taylor-swift-to-perform-at-cma-awards-2026"}]}
+  ]},
+  "04": {"title": "Where to eat, what's new, what's on.", "stories": [
+   {"headline": "Pablo's A\u00e7a\u00ed opens at 182 Ponsonby Rd",
+    "body": "Denizen reports Pablo's A\u00e7a\u00ed opened Saturday 14 Nov with three customisable bowls, smoothies and Brazilian cheese bread, plus free bowls for the first 30.",
+    "trend": "A\u00e7a\u00ed is joining froyo on the strip.", "note": "Single source, not independently confirmed.", "photo": "acai",
+    "sources": [{"label": "Denizen", "url": "https://www.thedenizen.co.nz/gastronomy/new-opening-ponsonby-has-a-new-acai-destination/"}]},
+   {"headline": "Auckland Feast runs to 22 Nov",
+    "body": "Urban List says the festival runs 12\u201322 Nov. On Thu 19 Nov, Cazador's Dariush Lolaiy hosts a cooking class and four-course dinner; check each venue for availability.",
+    "trend": "Collab dinners are the festival's draw.", "photo": "akl_skyline",
+    "sources": [{"label": "Urban List", "url": "https://www.theurbanlist.com/auckland/a-list/auckland-feast-food-festival"}]}
+  ]}
+ }
+}

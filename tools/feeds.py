@@ -7,7 +7,7 @@ Usage:
   python3 tools/feeds.py --section 01 --max 6
 
 Output: JSON {section: [candidate, ...]} on stdout, a feed health report on stderr.
-Each candidate: title, link, published (UTC ISO), source, summary (<=300 chars).
+Each candidate: title, link, published (UTC ISO), source, summary (<=200 chars).
 """
 import argparse
 import calendar
@@ -103,7 +103,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--offline", help="directory of <feed-key>.xml files to parse instead of fetching")
     ap.add_argument("--section", help="only this section, e.g. 01")
-    ap.add_argument("--max", type=int, default=8, help="max candidates per section")
+    ap.add_argument("--max", type=int, default=5, help="max candidates per section")
     args = ap.parse_args()
 
     now = time.time()
@@ -141,7 +141,7 @@ def main():
                     "link": link,
                     "published": time.strftime("%Y-%m-%dT%H:%MZ", time.gmtime(ts)),
                     "source": label,
-                    "summary": clean(e.get("summary")),
+                    "summary": clean(e.get("summary"), 200),
                     "_ts": ts,
                 })
         items.sort(key=lambda x: x["_ts"], reverse=True)

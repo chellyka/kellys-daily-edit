@@ -1,0 +1,43 @@
+{
+ "logos": {
+  "NVDA": "NVIDIA_logo.svg",
+  "AMD": "AMD_Logo.svg",
+  "AAPL": "Apple_logo_black.svg",
+  "TSLA": "Tesla_T_symbol.svg",
+  "META": "Meta_Platforms_logo.svg"
+ },
+ "photos": {
+  "nyse": [
+   "New_York_Stock_Exchange_August_2017_02.jpg",
+   "Wall Street and the New York Stock Exchange"
+  ],
+  "nyse_facade": [
+   "New_York_Stock_Exchange_Facade_-_New_York_City,_USA.jpg",
+   "New York Stock Exchange facade"
+  ],
+  "nvidia_hq": [
+   "NVIDIA_Headquarters.jpg",
+   "Nvidia headquarters building"
+  ],
+  "shenzhen": [
+   "Shenzhen_Skyline_from_Futian_District5.jpg",
+   "Shenzhen skyline"
+  ],
+  "beehive": [
+   "Beehive_Building_Wellington_New_Zealand.jpg",
+   "The Beehive, Wellington"
+  ],
+  "hormuz": [
+   "Iss064e046338.jpg",
+   "The Strait of Hormuz from orbit (NASA)"
+  ],
+  "acai": [
+   "Acai_bowl_(43110767814).jpg",
+   "An açaí bowl"
+  ],
+  "akl_skyline": [
+   "Auckland_skyline_from_harbour.png",
+   "Auckland waterfront skyline"
+  ]
+ }
+}

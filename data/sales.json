@@ -1,0 +1,78 @@
+{
+ "note": "Offers carried over from the last full retailer check; rows drop off automatically after their deadline. Codes are listed by the retailer but untested. Briscoes has not published Black Friday dates yet, MECCA showed no public sale (Beauty Loop members only), and I found no verified clean nail-care offers. Sales are re-checked Mondays and Thursdays.",
+ "rows": [
+  {
+   "store": "Farmers",
+   "offer": "<b>Kitchen:</b> 50% off Baccarat &amp; Stevens kitchenware and drinkware/barware; 40% off dining (all buy 2 or more)",
+   "code": "<a href=\"https://www.farmers.co.nz/\">farmers.co.nz</a> · no code listed",
+   "deadline": "Wed 18 Nov 2026",
+   "restrictions": "Buy 2+; &ldquo;conditions &amp; exclusions apply&rdquo;; NZ retailer, delivery terms not stated on page",
+   "expires": "2026-11-18"
+  },
+  {
+   "store": "Farmers",
+   "offer": "<b>Home:</b> 40% off duvet covers, sheets, towels (Domani, Linen House, Mondo); 30% off Sheridan towels (buy 2+)",
+   "code": "<a href=\"https://www.farmers.co.nz/\">farmers.co.nz</a> · no code listed",
+   "deadline": "Wed 18 Nov 2026",
+   "restrictions": "Buy 2+; conditions &amp; exclusions apply",
+   "expires": "2026-11-18"
+  },
+  {
+   "store": "Farmers",
+   "offer": "<b>Beauty:</b> buy 2 get a 3rd free on Weleda, Natio, Antipodes, House of Hur; buy 1 get 1 half price on L&rsquo;Oréal Paris, Medicube; 20% off Calvin Klein fragrance",
+   "code": "<a href=\"https://www.farmers.co.nz/\">farmers.co.nz</a> · no code listed",
+   "deadline": "Wed 18 Nov 2026",
+   "restrictions": "Selected products only; conditions &amp; exclusions apply",
+   "expires": "2026-11-18"
+  },
+  {
+   "store": "Farmers",
+   "offer": "<b>Fashion:</b> women&rsquo;s dresses $79 each (Whistle, Ella J, Denim Republic); 30% off Carte handbags &amp; accessories",
+   "code": "<a href=\"https://www.farmers.co.nz/\">farmers.co.nz</a> · no code listed",
+   "deadline": "<b>Sun 15 Nov 2026</b>",
+   "restrictions": "Whistle Dress Shop excluded; conditions &amp; exclusions apply",
+   "expires": "2026-11-15"
+  },
+  {
+   "store": "Sephora NZ",
+   "offer": "Beauty Pass Sale: up to 20% off, no minimum spend; up to 30% off Sephora Collection; up to 50% off markdowns",
+   "code": "<a href=\"https://www.sephora.nz/pages/beauty-pass-sale\">sephora.nz/pages/beauty-pass-sale</a> · no code",
+   "deadline": "Not stated",
+   "restrictions": "Page looked live but gives no dates; membership requirement not stated; asterisked terms not shown",
+   "expires": null
+  },
+  {
+   "store": "Sephora NZ",
+   "offer": "New-member codes: <code>ONLINE10</code> 10% off first online order; <code>APPNEW12</code> 12% off first app order ($100 min)",
+   "code": "Published in Sephora&rsquo;s terms (<a href=\"https://www.sephora.nz/terms\">sephora.nz/terms</a>) · <i>listed, untested</i>",
+   "deadline": "Not stated (valid from 1 Jan 2026)",
+   "restrictions": "Beauty Pass members; one use; excludes delivery; APPNEW12 is app-only. Couldn&rsquo;t open the full terms page",
+   "expires": null
+  },
+  {
+   "store": "Glassons NZ",
+   "offer": "15% off first order (join/newsletter or app); 2 for $40 swimwear; weekly markdowns",
+   "code": "<a href=\"https://www.glassons.com/nz/c/sale\">glassons.com/nz/c/sale</a> · no code shown",
+   "deadline": "Not stated",
+   "restrictions": "Conditions not shown. Shipping $6.99, free over $80 per NZ FAQ (another FAQ page says $70)",
+   "expires": null
+  },
+  {
+   "store": "Kmart NZ",
+   "offer": "Black Friday offers online and in the app, incl. beauty and home &amp; living; no discounts published yet",
+   "code": "<a href=\"https://www.kmart.co.nz/black-friday\">kmart.co.nz/black-friday</a>",
+   "deadline": "Starts 8am NZDT Thu 26 Nov",
+   "restrictions": "While stocks last; online queue possible; no holds or layby; purchase limits on some items",
+   "expires": null
+  },
+  {
+   "store": "Mocka NZ",
+   "offer": "Black Friday: 10&ndash;50% off almost everything (furniture only, no kitchen items seen)",
+   "code": "<a href=\"https://www.mocka.co.nz/collections/sale\">mocka.co.nz/collections/sale</a> · no code",
+   "deadline": "Not stated (&ldquo;limited time&rdquo;)",
+   "restrictions": "Asterisk terms not shown; delivery terms not stated; NZD pricing",
+   "expires": null
+  }
+ ],
+ "researched": "Sun 15 Nov 2026"
+}
