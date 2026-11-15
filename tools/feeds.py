@@ -43,8 +43,8 @@ SECTIONS = {
         "title": "Finance & Markets",
         "feeds": ["cnbc", "marketwatch", "interest"],
         "max_age_h": 36,
-        "include": r"stock|market|nasdaq|s&p|dow|fed|rate|inflation|yield|oil|nvidia|amd|apple|tesla|meta|anthropic|ipo|earnings|nzx|rbnz|economy|bank|asia|nikkei|china|house price|dollar",
-        "exclude": r"i'm \d+|i inherited|my husband|my wife|should i|am i wrong|roof deck|retire",
+        "include": r"\b(stocks?|markets?|nasdaq|s&p|dow|fed|rates?|inflation|yields?|oil|nvidia|amd|apple|tesla|meta|anthropic|ipo|earnings|nzx|rbnz|economy|economic|bank|banks|asia|nikkei|china|house prices?|dollar|ai)\b",
+        "exclude": r"i'm \d+|i inherited|my (husband|wife|partner|mother|father)|should (i|a|my)|am i wrong|roof deck|retire|widow|stepkid|inherit|postnup|quiz",
     },
     "02": {
         "title": "World & New Zealand",
